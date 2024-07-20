@@ -4,6 +4,10 @@
 
 ## About Me
 
+Hello! I'm Daniel, also known as LuxlNET in the online world. I'm a 19-year-old software enthusiast from Bavaria, near Passau. Professionally, I am a Software Development Specialist (Fachinformatiker für Anwendungsentwicklung), and I love to code even in my free time.
+
+On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me via Discord or email.
+
 ## Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
@@ -12,7 +16,8 @@
 
 ## Projects
 
-- TBA
+- Currently im projectlead **[@Blueline FivePD](https://blfivepd.de)**
+- "**Project Bluebook**" (its an synonym for an unnamed Project). Its an Multirole-CAD-System for Roleplay-Server. Its actual not nearly finished. 
 
 ## GitHub Stats
 
