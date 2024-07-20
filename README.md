@@ -22,7 +22,7 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 ## GitHub Stats
 
 <p>
- <a href=https://github.com/LuxlNET> <img width="420" src=https://github-readme-stats.vercel.app/api?username=LuxlNET&count_private=true&show_icons=true&title_color=00FFB6&text_color=ffffff&icon_color=00FFB6&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+ <a href=https://github.com/LuxlNET> <img width="420" src=https://github-readme-stats.vercel.app/api?username=LuxlNET&count_private=true&show_icons=true&title_color=FFD700&text_color=ffffff&icon_color=FFD700&hide_border=true&bg_color=1e1e1e&layout=compact&hide_title=false&hide_rank=false><a>
 </p>
 
 ## Connect with Me
