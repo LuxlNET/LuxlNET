@@ -1,19 +1,8 @@
 # Welcome to My GitHub Profile! :wave:
 
-![Profile Views](https://komarev.com/ghpvc/?username=LuxlNET-Daniel)
+![Profile Views](https://komarev.com/ghpvc/?username=LuxlNET)
 
 ## About Me
-
-My name is Felix and I come from beautiful Bavaria. I have been fascinated by the world of IT since I was a child.
-
-
-As an IT specialist for system integration, I am lucky enough to be able to live out my passion for IT in my job. My knowledge and experience cover various areas of this exciting industry.
-
-
-I do smaller projects from time to time.
-
-
-Feel free to browse around and contact me if you have any questions or suggestions.
 
 ## Languages
 
@@ -28,7 +17,7 @@ Feel free to browse around and contact me if you have any questions or suggestio
 ## GitHub Stats
 
 <p>
- <a href=https://github.com/LuxlNET-Daniel> <img width="420" src=https://github-readme-stats.vercel.app/api?username=LuxlNET-Daniel&count_private=true&show_icons=true&title_color=00FFB6&text_color=ffffff&icon_color=00FFB6&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+ <a href=https://github.com/LuxlNET> <img width="420" src=https://github-readme-stats.vercel.app/api?username=LuxlNET&count_private=true&show_icons=true&title_color=00FFB6&text_color=ffffff&icon_color=00FFB6&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
 </p>
 
 ## Connect with Me
