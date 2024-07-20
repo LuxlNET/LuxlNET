@@ -10,7 +10,7 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuxlNET&layout=compact&theme=gruvbox&title_color=FFD700&icon_color=1E90FF&text_color=FFFFFF&bg_color=000000)](https://github.com/LuxlNET)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuxlNET&layout=compact&theme=gruvbox&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1e1e1e)](https://github.com/LuxlNET)
 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
