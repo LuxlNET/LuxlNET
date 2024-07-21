@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Daniel, also known as LuxlNET in the online world. I'm a 19-year-old software enthusiast from Bavaria, near Passau. Professionally, I am a Software Development Specialist (Fachinformatiker für Anwendungsentwicklung), and I love to code even in my free time.
+Hello! I'm Daniel, also known as LuxlNET in the online world. I'm a 20-year-old software enthusiast from Bavaria, near Passau. Professionally, I am a Software Development Specialist (Fachinformatiker für Anwendungsentwicklung), and I love to code even in my free time.
 
 On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me via Discord or email.
 
