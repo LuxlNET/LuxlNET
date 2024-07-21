@@ -25,7 +25,7 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 ## Projects
 
 - Currently im projectlead **[@Blueline FivePD](https://blfivepd.de)**
-- "**Project Bluebook**" (its an synonym for an unnamed Project). Its an Multirole-CAD-System for Roleplay-Server. Its actual not nearly finished. 
+- "**NexRole Systems**" its an little group of friends and developer which are working on different systems for roleplaying. Primary germany
 
 ## GitHub Stats
 
