@@ -24,7 +24,6 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 
 ## Projects
 
-- Currently im projectlead **[@Blueline FivePD](https://blfivepd.de)**
 - "**NexRole Systems**" its an little group of friends and developer which are working on different systems for roleplaying. Primary germany
 
 ## GitHub Stats
