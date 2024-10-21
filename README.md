@@ -24,7 +24,7 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 
 ## Projects
 
-- "**NexRole Systems**" its an little group of friends and developer which are working on different systems for roleplaying. Primary germany
+- Not mainly working on anything. Mal so mal so 
 
 ## GitHub Stats
 
@@ -35,7 +35,7 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 ## Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/273523709505961984)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:main@luxlnet.de)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:business@luxlnet.de)
 
 
 
