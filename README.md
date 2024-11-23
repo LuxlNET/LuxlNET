@@ -23,7 +23,7 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 
 ## Projects
 
-- Not mainly working on anything. Mal so mal so 
+- Not mainly working on anything. Sometimes like this and sometimes like this
 
 ## GitHub Stats
 
