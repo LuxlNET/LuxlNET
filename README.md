@@ -10,8 +10,6 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuxlNET&layout=compact&theme=gruvbox&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1e1e1e)](https://github.com/LuxlNET)
-
 
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -23,7 +21,8 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 
 ## Projects
 
-- LYNX, an non-open-source File and Authority System for Roleplay Servers. 
+- LYNX, an non-open-source File and Authority System for Roleplay Servers.
+- I recently started working on [EmergencyForge's](https://emergencyforge.de/) projects.
 
 ## GitHub Stats
 
