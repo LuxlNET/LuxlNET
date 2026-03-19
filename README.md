@@ -22,7 +22,6 @@ On GitHub, I'm semi-active. For quicker responses, feel free to reach out to me 
 ## Projects
 
 - LYNX, an non-open-source File and Authority System for Roleplay Servers.
-- I recently started working on [EmergencyForge's](https://emergencyforge.de/) projects.
 
 ## GitHub Stats
 
